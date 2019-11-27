@@ -1,9 +1,9 @@
 class Wsi2dcm < Formula
   desc "Conversion tool/library for converting whole slide images to DICOM "
-  version "1.0.1"
+  version ""
   homepage "https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter"
-  url "https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter/archive/v1.0.1.zip"
-  sha256 "166533d2be9609b21ebf8b64949afd05f7e43b42a544395cc093c8b45dee4fb5"
+  url ""
+  sha256 ""
 
   depends_on "cmake" => :build
   depends_on "wget" => :build
